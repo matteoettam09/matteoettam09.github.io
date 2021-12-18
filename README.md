@@ -1,6 +1,6 @@
-# Hasta!
+# Salve Viandante!
 
-Benvenuto "Al 100esimo Chilometro"! Ristoro, Bed & Breakfast, Ostello a esattamente 100 chilomentri dalla tomba del buon San Pietro.
+Benvenuto "Al 100esimo Chilometro"! Ristoro, Bed & Breakfast, Ostello a 100 chilomentri dalla tomba di San Pietro.
 
 ### Letti
 
@@ -8,7 +8,7 @@ Fermati da noi per dei letti comodissimi!
 
 ### Cibo
 
-Le pommidore dell'orto della valle di [Montefiascone](https://en.wikipedia.org/wiki/Montefiascone), l'olio del nostro, l'vino col metabisolfito e tanto altro! Basta chiedere della **stuzzicheria**.
+Pomodori dell'orto della valle di [Montefiascone](https://en.wikipedia.org/wiki/Montefiascone), olio fatto in casa, vino delle nostre uve e tanto altro! Basta chiedere alla **stuzzicheria**.
 
 ### Prezzi
 
