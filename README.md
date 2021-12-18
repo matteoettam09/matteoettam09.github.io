@@ -2,13 +2,35 @@
 
 Benvenuto "Al 100esimo Chilometro"! Ristoro, Bed & Breakfast, Ostello a 100 chilomentri dalla tomba di San Pietro.
 
+[Stiamo lavorando per voi!](lavori/lavori.md)
+
 ### Letti
 
 Fermati da noi per dei letti comodissimi!
 
 ### Cibo
 
-Pomodori dell'orto della valle di [Montefiascone](https://en.wikipedia.org/wiki/Montefiascone), olio fatto in casa, vino delle nostre uve e tanto altro! Basta chiedere alla **stuzzicheria**.
+Pomodori dell'orto della valle di [Montefiascone](https://en.wikipedia.org/wiki/Montefiascone)! 
+
+Olio fatto in casa:
+<figure>
+  <img src="images/olive.jpeg"
+    height="350" width="100%">
+  <figcaption> Potatura.
+  </figcaption>
+</figure>
+
+
+Vino delle nostre uve e tanto altro! Basta chiedere alla **stuzzicheria**.
+
+Portiamo la nostra cura per la natura sulla vostra tavola.
+
+<figure>
+  <img src="images/trattore.jpeg"
+    height="350" width="100%">
+  <figcaption> Dream Team
+  </figcaption>
+</figure>
 
 ### Prezzi
 
