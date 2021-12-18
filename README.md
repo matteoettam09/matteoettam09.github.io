@@ -2,7 +2,7 @@
 
 Benvenuto "Al 100esimo Chilometro"! Ristoro, Bed & Breakfast, Ostello a 100 chilomentri dalla tomba di _San Pietro_.
 
-[Stiamo lavorando per voi!](lavori/lavori.md)
+Clicca [qui](lavori/lavori.md) per aggiornamenti sui lavori!
 
 ### Letti
 
@@ -23,12 +23,12 @@ Olio dei nostri oliveti:
 
 Vino delle nostre uve e tanto altro! Basta chiedere alla **stuzzicheria**.
 
-Portiamo la nostra cura per la natura sulla vostra tavola.
+Portiamo la nostra cura per la natura sulla vostra tavola:
 
 <figure>
   <img src="images/trattore.jpeg"
     height="350">
-  <figcaption> Dream Team
+  <figcaption> Vendemmia.
   </figcaption>
 </figure>
 

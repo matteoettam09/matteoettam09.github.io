@@ -4,7 +4,7 @@ Stiamo lavorando alla costruzione delle camere, oltre che del sito.
 
 <figure>
   <img src="../images/lavori/1.jpeg"
-    height="350" width="100%">
+    height="350">
   <figcaption> Noi impolverati ma felici.
   </figcaption>
 </figure>
