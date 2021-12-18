@@ -12,7 +12,14 @@ Fermati da noi per dei letti comodissimi!
 
 Pomodori dell'orto della valle di [Montefiascone](https://en.wikipedia.org/wiki/Montefiascone)! 
 
-Olio dei nostri ![oliveti](images/olive.jpeg):
+Olio dei nostri oliveti:
+
+<figure>
+  <img src="images/olive.jpeg"
+    height="350">
+  <figcaption> La potatura.
+  </figcaption>
+</figure>
 
 Vino delle nostre uve e tanto altro! Basta chiedere alla **stuzzicheria**.
 
@@ -34,4 +41,4 @@ Portiamo la nostra cura per la natura sulla vostra tavola.
 ### Contatti
 
 - Whatsapp: +39 3330033000
-- Email: template\@something.com
+- Email: template@something.com
