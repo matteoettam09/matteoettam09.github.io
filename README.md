@@ -1,6 +1,6 @@
 # Matteo Manzi
 
-Welcome to my website. I am Matteo, Flight Dynamics Software Engineer for the Space Debris Office of the [European Space Agency](https://www.esa.int/) and for [Aerisgate](http://aerisgate.com/). I am also a freelance researcher thanks to Vahid, Vishnu, Apeksha, Daniele and Benjamin, and a [Cryptocurrency Algoritmic Trading Service Provider](crypto.md). 
+Welcome to my website. I am Matteo, Flight Dynamics Software Engineer for the Space Debris Office of the [European Space Agency](https://www.esa.int/) and for [Aerisgate](http://aerisgate.com/). I am also a freelance researcher thanks to Vahid, Vishnu, Apeksha, Daniele, Benjamin, Andrei, and I am a [Cryptocurrency Algoritmic Trading Service Provider](crypto.md). 
 
 You can check my [Youtube](https://www.youtube.com/channel/UCxkveBmMqeXPXLzFdsnA0bA) channel: I use it to share episodes of the Stardust Podcast, my Music, and audiopapers.
 
