@@ -8,7 +8,7 @@ I am a [Cryptocurrency Algoritmic Trading Service Provider](crypto.md).
 
 In my [Youtube](https://www.youtube.com/channel/UCxkveBmMqeXPXLzFdsnA0bA) channel you can find: 
 
-- episodes of the Stardust Podcast, which I can push forward thanks to Stefano and Mattia;
+- episodes of the Stardust Podcast, which I can push forward thanks to [Stefano](https://www.linkedin.com/in/stefano-guidolotti/) and Mattia;
 - my music;
 - audiopapers.
 
