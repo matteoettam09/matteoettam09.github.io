@@ -2,13 +2,21 @@
 
 Welcome to my website. I am Matteo ([CV](CV.md)), Flight Dynamics Software Engineer for the Space Debris Office of the [European Space Agency](https://www.esa.int/) and for [Aerisgate](http://aerisgate.com/). 
 
-I am also a freelance researcher thanks to Vahid, Vishnu, Apeksha, Daniele, Benjamin, Andrei, and Emanuele. 
+I am also a freelance researcher, mainly thanks to:
+
+- [Vahid](https://www.linkedin.com/in/vahid-nateghi/) 
+- Vishnu 
+- [Benjamin](https://www.linkedin.com/in/benjamin-boschmann-5234a5193/)
+- [Emanuele](https://www.linkedin.com/in/emanuele-olivetti/)
+- Andrei
+- [Daniele](https://www.linkedin.com/in/daniele-sicoli-51649566/)
+- Apeksha
 
 I am a [Cryptocurrency Algoritmic Trading Service Provider](crypto.md).
 
 In my [Youtube](https://www.youtube.com/channel/UCxkveBmMqeXPXLzFdsnA0bA) channel you can find: 
 
-- episodes of the Stardust Podcast, which I can push forward thanks to [Stefano](https://www.linkedin.com/in/stefano-guidolotti/) and Mattia;
+- episodes of the Stardust Podcast, which I can push forward thanks to [Stefano](https://www.linkedin.com/in/stefano-guidolotti/) and [Mattia](https://www.linkedin.com/in/mattia-petrini-58a7a8151/);
 - my music;
 - audiopapers.
 
