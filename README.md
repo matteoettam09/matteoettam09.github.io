@@ -5,12 +5,12 @@ Welcome to my website. I am Matteo ([CV](CV.md)), Flight Dynamics Software Engin
 I am also a freelance researcher, mainly thanks to:
 
 - [Vahid](https://www.linkedin.com/in/vahid-nateghi/) 
-- Vishnu 
+- [Vishnu](https://www.linkedin.com/in/vishnuvardhan-shakthibala-33ab24b4/) 
 - [Benjamin](https://www.linkedin.com/in/benjamin-boschmann-5234a5193/)
 - [Emanuele](https://www.linkedin.com/in/emanuele-olivetti/)
-- Andrei
+- [Andrei](https://www.linkedin.com/in/andrei-kitaitsev-b21a32208/)
 - [Daniele](https://www.linkedin.com/in/daniele-sicoli-51649566/)
-- Apeksha
+- [Apeksha](https://www.linkedin.com/in/apeksha-veeranna/)
 
 I am a [Cryptocurrency Algoritmic Trading Service Provider](crypto.md).
 
