@@ -30,19 +30,19 @@ force-https: True
 
 lang: "en"
 author: "Matteo Manzi"
-title: "{ Matteo Manzi }"
-description: "Blog and website of Matteo Manzi, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+title: "Matteo Manzi"
+description: "Website and Blog of Matteo Manzi."
+keywords: "Matteo, Manzi, website, aerospace, dynamical systems, chaos, finance, crypto, artificial intelligence, stochastic, trading"
+favicon: "/img/rocket3.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
-logo: "/img/author.png" # leave blank if you don't want a logo
+black-favicon: "/img/rocket3.ico"
+logo: # leave blank if you don't want a logo
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/mylogo.png"
 
 ##############################
 # Dynamic Text on the Header #
@@ -56,8 +56,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Nunquam praescriptos transibunt sidera fines."
+  - text: "For it is unworthy of distinguished men to waste their time with slavish calculations."
+  - text: "What difference do you think you can make, one man in all this madness? If you die, it's gonna be for nothing."
 
 me-img: "/img/me.jpg"
 
@@ -147,7 +148,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "notsure4spam@gmail.com"
 
 
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
@@ -169,16 +170,20 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
+  - title: "youtube"
+    url: "https://www.youtube.com/channel/UCxkveBmMqeXPXLzFdsnA0bA"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/Matteomanzi09"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/matteomanzi00seinfeldwasright/"
   - title: "github"
     url: "https://github.com/matteoettam09"
+  - title: "patreon"
+    url: "https://www.patreon.com/astrorum_pulvis"
   - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://blockchain.info/address/1QBuzGoexScZEq6NmeHSpkLZSZLwqA9oM4"
+#  - title: "rss"
+#    url: "/feed.xml"
 
 ############
 # 404 page #
@@ -191,8 +196,8 @@ err-404-img: "/img/labtocat.png"
 ##################
 
 keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
