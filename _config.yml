@@ -148,7 +148,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "notsure4spam@gmail.com"
+email: ""
 
 
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
@@ -209,7 +209,7 @@ pages_list:
   About: 'about'
   Blog: 'latest-post'
   Timeline: 'timeline'
-  Contact: 'contact'
+   Contact: 'contact'
 
 # Exclusion list from the generated _site
 
